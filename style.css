@@ -101,3 +101,51 @@
    border-radius: 5px
 
 }
+
+.body-part-4{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.body-part-4 h1{
+    font-size: 50ppx;
+    font-weight: 700;
+}
+
+.body-part-4 p{
+    font-size: 16px;
+}
+
+.column-part{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.column-1{
+    width: 30%;
+    height: 340px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 50px 30px 30px 50px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.column-2{
+    width: 30%;
+    height: 340px;
+    background-color: rgb(255, 127, 197);
+    border-radius: 10px;
+    padding: 50px 30px 30px 50px;
+    margin-right: 5%;
+}
+
+.column-3{
+    width: 30%;
+    height: 340px;
+    background-color: rgb(59, 77, 238);
+    border-radius: 10px;
+    padding: 50px 30px 30px 50px;
+    margin-right: 5%;
+}
